@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Durjoy Barua</h1>
 <h3 align="center">Problem solver</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy5327&label=Profile%20views&color=0e75b6&style=flat" alt="durjoy5327" /> </p>
+<img align="right" alt="Coding" width="400" src="https://images.playground.com/903530d49a204c038c6215edb428e5f6.jpeg">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
