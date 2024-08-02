@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/durjoy-barua" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durjoy barua" height="30" width="40" />
   </a>
-  <a href="https://fb.com/durjoy-barua" target="blank">
+  <a href="https://www.facebook.com/durjoy.barua.587268" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="durjoy barua" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/durjoybarua5327" target="blank">
