@@ -84,5 +84,5 @@
 <!-- Adding Animation -->
 <h3 align="center">Keep Hustling! 🚀</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200"/>
+  <img src="https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif" width="200"/>
 </p>
