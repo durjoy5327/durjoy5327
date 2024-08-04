@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Durjoy Barua</h1>
 <h3 align="center">Problem Solver | Developer | Tech Enthusiast</h3>
 
-
-
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=durjoy5327&label=Profile%20views&color=0e75b6&style=flat" alt="durjoy5327" />
