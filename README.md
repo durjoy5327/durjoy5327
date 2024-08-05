@@ -1,4 +1,3 @@
-
 <!-- Banner Image -->
 <p align="center">
   <img alt="Banner" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
