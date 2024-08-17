@@ -2,8 +2,17 @@
 <p align="center">
   <img alt="Banner" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Durjoy Barua</h1>
-<h3 align="center">Problem Solver | Developer | Tech Enthusiast</h3>
+<p align="center" style="margin-left: 10px;">
+  <a href="https://jahidulislamzim.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=FF6347&vCenter=true&width=500&height=50&lines=Problem+Solver+🧩;Web+Scraper+🔍;Tech+Enthusiast+🚀" alt="Typing SVG">
+  </a>
+</p>
+
+
+
+
+
+
 
 <!-- Profile Views -->
 <p align="left">
